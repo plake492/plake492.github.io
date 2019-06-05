@@ -73,7 +73,7 @@ section {
     margin-right: 100px;
     margin-top: 30px;
     margin-bottom: 30px;
-    padding: 20px;
+    padding: 20px 20px 86px 20px;
 }
 
 /*
@@ -102,8 +102,7 @@ img {
     margin-left: 5px;
     margin-bottom: -15px;
     float: left;
-    padding: 20px 20px 20px 20px
-}
+    padding: 10px 20px 18px 20px}
 
 p { 
     display: block;
