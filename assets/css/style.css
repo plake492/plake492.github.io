@@ -10,6 +10,13 @@
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: @screen-lg-min) { ... }
 
+
+/* clear padding on edge */
+
+body {
+    padding: 0;
+    margin: 0;
+}
 /* page header */
 
 header {
